@@ -3,7 +3,7 @@
 
 Play framework is used to create web application: https://www.playframework.com/getting-started
 
-## Use sbt run to start the project
+Start the project with : sbt run 
 
 Below are the API's
 
