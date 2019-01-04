@@ -1,4 +1,4 @@
-# reutersDataset
+# reuters-dataset-parser-java
 
 
 Play framework is used to create web application: https://www.playframework.com/getting-started
