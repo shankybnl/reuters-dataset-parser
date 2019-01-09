@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/Users/rivigo/Documents/workspace/open-source/reuters/conf/routes
-// @DATE:Sat Dec 22 00:52:05 IST 2018
+// @SOURCE:/Users/rivigo/Documents/workspace/open-source/reutersDataset/reuters/conf/routes
+// @DATE:Wed Jan 09 19:47:39 IST 2019
 
 
 package router {

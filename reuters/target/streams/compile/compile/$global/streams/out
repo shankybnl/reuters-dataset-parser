@@ -1,2 +1,12 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/rivigo/Documents/workspace/open-source/reuters/app/services/serviceImpl/DatasetImpl.java:15:1: package util does not exist[0m
-[0m[[0m[31merror[0m] [0m[0mimport util.*;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rivigo/Documents/workspace/open-source/reuters/app/services/servicesImpl/FetchReutersDataImpl.java:19:1: for-each not applicable to expression type[0m
+[0m[[0m[31merror[0m] [0m[0m  required: array or java.lang.Iterable[0m
+[0m[[0m[31merror[0m] [0m[0m  found:    services.servicesImpl.ReutersDataImpl[0m
+[0m[[0m[31merror[0m] [0m[0m        for (News news : reuters_dataset) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rivigo/Documents/workspace/open-source/reuters/app/services/servicesImpl/FetchReutersDataImpl.java:104:1: for-each not applicable to expression type[0m
+[0m[[0m[31merror[0m] [0m[0m  required: array or java.lang.Iterable[0m
+[0m[[0m[31merror[0m] [0m[0m  found:    services.servicesImpl.ReutersDataImpl[0m
+[0m[[0m[31merror[0m] [0m[0m        for (News news : reuters_dataset) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rivigo/Documents/workspace/open-source/reuters/app/services/servicesImpl/FetchReutersDataImpl.java:173:1: for-each not applicable to expression type[0m
+[0m[[0m[31merror[0m] [0m[0m  required: array or java.lang.Iterable[0m
+[0m[[0m[31merror[0m] [0m[0m  found:    services.servicesImpl.ReutersDataImpl[0m
+[0m[[0m[31merror[0m] [0m[0m        for (News news : reuters_dataset) {[0m

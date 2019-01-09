@@ -1,18 +1,15 @@
 package services.servicesImpl;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Iterator;
-import java.util.LinkedList;
+import java.util.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import dto.Dataset;
+
 import dto.News;
 
-public class ReutersDataImpl extends Dataset<News> {
+public class ReutersDataImpl extends ArrayList<News> {
     private final String directory;
     static int i=0;
 
@@ -188,7 +185,7 @@ public class ReutersDataImpl extends Dataset<News> {
 
         private void readNextElements() {
 
-            StringBuilder buffer = new StringBuilder(1024);
+            StringBuilder buffer = new StringBuilder();
 
             while (true) {
                 try {

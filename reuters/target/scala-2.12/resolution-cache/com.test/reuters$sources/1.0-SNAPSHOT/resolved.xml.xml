@@ -4,7 +4,7 @@
 		module="reuters$sources"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20181222000030"
+		publication="20190109194633"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
